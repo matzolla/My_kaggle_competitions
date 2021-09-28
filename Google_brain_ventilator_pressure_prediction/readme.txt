@@ -14,3 +14,5 @@ adding last u_in as new feature
 -https://www.kaggle.com/c/ventilator-pressure-prediction/discussion/274144 good discussion on some peaks
 
 -interesting notebook https://www.kaggle.com/dmitryuarov/ventilator-pressure-eda-lstm-0-189
+
+https://www.kaggle.com/kensit/improvement-base-on-tensor-bidirect-lstm-0-173
