@@ -12,3 +12,5 @@ adding last u_in as new feature
 -u_out does'nt have an impact apparently since it represents expiratory phase  which is not scored.
 
 -https://www.kaggle.com/c/ventilator-pressure-prediction/discussion/274144 good discussion on some peaks
+
+-interesting notebook https://www.kaggle.com/dmitryuarov/ventilator-pressure-eda-lstm-0-189
