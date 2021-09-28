@@ -16,3 +16,4 @@ adding last u_in as new feature
 -interesting notebook https://www.kaggle.com/dmitryuarov/ventilator-pressure-eda-lstm-0-189
 
 https://www.kaggle.com/kensit/improvement-base-on-tensor-bidirect-lstm-0-173
+https://www.kaggle.com/usharengaraju/eda-fe-tabnet-weights-and-biases
