@@ -17,3 +17,5 @@ adding last u_in as new feature
 
 https://www.kaggle.com/kensit/improvement-base-on-tensor-bidirect-lstm-0-173
 https://www.kaggle.com/usharengaraju/eda-fe-tabnet-weights-and-biases
+
+The research paper is very insightful https://arxiv.org/pdf/2102.06779.pdf
