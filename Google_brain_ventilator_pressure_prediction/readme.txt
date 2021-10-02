@@ -20,4 +20,4 @@ https://www.kaggle.com/usharengaraju/eda-fe-tabnet-weights-and-biases
 
 The research paper is very insightful https://arxiv.org/pdf/2102.06779.pdf
 
-https://www.kaggle.com/abhishek/always-splitting-data-first
+https://www.kaggle.com/abhishek/always-splitting-data-first by abishek takhur
