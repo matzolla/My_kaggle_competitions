@@ -27,3 +27,5 @@ https://www.kaggle.com/marutama/eda-about-u-in
 
 
 so far, this is my starter notebook ideas https://www.kaggle.com/cdeotte/ensemble-folds-with-median-0-153
+
+Nomarly overparemetrized models will suffer from the variance-biased trade-off , but in this competition it seems as the model failed to overfit due to a possible interpolating regime which i don't know the origin
