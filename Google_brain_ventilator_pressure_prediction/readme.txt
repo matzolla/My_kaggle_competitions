@@ -24,3 +24,6 @@ https://www.kaggle.com/abhishek/always-splitting-data-first by abishek takhur
 
 
 https://www.kaggle.com/marutama/eda-about-u-in
+
+
+so far, this is my starter notebook ideas https://www.kaggle.com/cdeotte/ensemble-folds-with-median-0-153
