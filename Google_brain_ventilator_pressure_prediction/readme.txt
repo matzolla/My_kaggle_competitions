@@ -32,3 +32,5 @@ Nomarly overparemetrized models will suffer from the variance-biased trade-off ,
 
 
 Here is a very great link for almost all winning solutions of competitions https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions
+
+C and R explained in this link https://www.kaggle.com/c/ventilator-pressure-prediction/discussion/276599
