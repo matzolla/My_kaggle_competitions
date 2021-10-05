@@ -36,3 +36,5 @@ Here is a very great link for almost all winning solutions of competitions https
 C and R explained in this link https://www.kaggle.com/c/ventilator-pressure-prediction/discussion/276599
 
 https://www.kaggle.com/snnclsr/a-dummy-approach-to-improve-your-score-postprocess?scriptVersionId=76215088
+
+https://equatorial-jobaria-9ad.notion.site/Some-quick-notes-on-Google-Ventilation-Comp-9c63e233ec7b498d8b6e4f51dc0407f6
