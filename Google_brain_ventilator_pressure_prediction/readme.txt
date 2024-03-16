@@ -1,9 +1,9 @@
-The file is empty for now but i will be uploading step by step notebooks as the competition is in progress.
+` The file is empty for now but i will be uploading step by step notebooks as the competition is in progress.
 Up to november 04 2021
 kaggle: ventilator-pressure-prediction challenge. 
 -Discussion: since the expiratory phase is not scored, it's ok, we can do the cumulative sum of the u_in feature.
 adding lag u_in as a new feature
-adding last u_in as new feature
+adding last u_in as new feature `
 
 -GroupKFold for time series, when using time series data , (shuffle=True) on train_test_split
 
