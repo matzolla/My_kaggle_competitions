@@ -1,2 +1,2 @@
-# My_kaggle_competitions
+### My kaggle competitions
 This Repository will be about my kaggle competitions
