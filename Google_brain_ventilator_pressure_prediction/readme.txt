@@ -5,11 +5,11 @@ kaggle: ventilator-pressure-prediction challenge.
 adding lag u_in as a new feature
 adding last u_in as new feature 
 
--GroupKFold for time series, when using time series data , (shuffle=True) on train_test_split
+- GroupKFold for time series, when using time series data , (shuffle=True) on train_test_split
 
--https://www.kaggle.com/jorijnsmit/found-the-holy-grail-grouptimeseriessplit 
+- https://www.kaggle.com/jorijnsmit/found-the-holy-grail-grouptimeseriessplit 
 
--u_out does'nt have an impact apparently since it represents expiratory phase  which is not scored.
+- u_out does'nt have an impact apparently since it represents expiratory phase  which is not scored.
 
 -https://www.kaggle.com/c/ventilator-pressure-prediction/discussion/274144 good discussion on some peaks
 
